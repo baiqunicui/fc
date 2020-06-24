@@ -1,69 +1,69 @@
 @font-face {
     font-family: Circular;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-light.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-light.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-light.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-light.woff") format("woff");
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular-hbr;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-light-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-light-hbr.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-light-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-light-hbr.woff") format("woff");
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-book.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-book.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-book.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-book.woff") format("woff");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular-hbr;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-book-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-book-hbr.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-book-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-book-hbr.woff") format("woff");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-medium.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-medium.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-medium.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-medium.woff") format("woff");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular-hbr;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-medium-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-medium-hbr.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-medium-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-medium-hbr.woff") format("woff");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-bold.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-bold.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-bold.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-bold.woff") format("woff");
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular-hbr;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-bold-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-bold-hbr.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-bold-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-bold-hbr.woff") format("woff");
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-black.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-black.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-black.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-black.woff") format("woff");
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: Circular-hbr;
-    src: url("https://github.com/baiqunicui/font/raw/master/fc-black-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/font/raw/master/fc-black-hbr.woff") format("woff");
+    src: url("https://github.com/baiqunicui/fc/raw/master/fc-black-hbr.woff2") format("woff2"), url("https://github.com/baiqunicui/fc/raw/master/fc-black-hbr.woff") format("woff");
     font-weight: 900;
     font-style: normal;
 }
